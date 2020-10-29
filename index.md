@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Tilia Pages
 
-You can use the [editor on GitHub](https://github.com/ifs-alpha/Tilia-Deeplinks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Tilia pages, where you could find every usefull development detail.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Deeplinks
+Here is the full list of deeplinks used for Tilia mobile application :
 
-### Markdown
+#### Home :
+[Webview de TMA](tilia://app/tma)
+[Page d'invitation à la migration vers Premium](tilia://app/migrate)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Agenda :
+[Liste des événements statiques](tilia://app/agenda/static_events)
+[Formulaire de création d'événement](tilia://app/agenda/new_event)
 
-```markdown
-Syntax highlighted code block
+#### Assistant :
+[Page d'assistant](tilia://app/assistant)
 
-# Header 1
-## Header 2
-### Header 3
+#### Contacts :
+[Liste des contacts utiles (par défaut)](tilia://app/contacts)
 
-- Bulleted
-- List
+#### Conseils :
+[Liste des articles](tilia://app/forum/articles)
+[PDF du guide des aidants](tilia://app/forum/user_guide)
+[Liste des fiches pratiques](tilia://app/forum/practical_files)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ifs-alpha/Tilia-Deeplinks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Profile :
+[Formulaire d'ajout d'un aidant secondaire](tilia://app/aidant_secondaire)
